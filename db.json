@@ -1,0 +1,20 @@
+{
+  "familytree": [
+    {"nev":"Eva White Jr.", "datum":"1968-07-03", "cim":"City21", "mothers_name":"Mary Johnson", "fathers_name":"Bob Johnson", "possible_death_time":"1995-02-15", "possible_death_location":"City21_Hospital"},
+    {"nev":"Mark Johnson", "datum":"1966-12-12", "cim":"City22", "mothers_name":"Jane Doe", "fathers_name":"Jim Doe", "possible_death_time":"Not known", "possible_death_location":"Not known"},
+    {"nev":"Susan Smith", "datum":"1970-03-25", "cim":"City23", "mothers_name":"Anna Smith", "fathers_name":"David Smith", "possible_death_time":"2010-08-20", "possible_death_location":"City23_Home"},
+    {"nev":"John Doe Jr.", "datum":"1975-08-08", "cim":"City24", "mothers_name":"Jane Doe", "fathers_name":"John Doe", "possible_death_time":"Not known", "possible_death_location":"Not known"},
+    {"nev":"Laura Taylor", "datum":"1978-11-20", "cim":"City25", "mothers_name":"Linda Davis", "fathers_name":"Robert Davis", "possible_death_time":"2005-04-10", "possible_death_location":"City25_Hospital"},
+
+    {"nev":"Chris Johnson", "datum":"1990-05-18", "cim":"City26", "mothers_name":"Eva White Jr.", "fathers_name":"Mark Johnson", "possible_death_time":"Not known", "possible_death_location":"Not known"},
+    {"nev":"Sarah Davis", "datum":"1988-09-30", "cim":"City27", "mothers_name":"Mark Johnson", "fathers_name":"Susan Smith", "possible_death_time":"2015-12-03", "possible_death_location":"City27_Home"},
+    {"nev":"Michael Smith", "datum":"1992-04-14", "cim":"City28", "mothers_name":"Susan Smith", "fathers_name":"John Doe Jr.", "possible_death_time":"Not known", "possible_death_location":"Not known"},
+    {"nev":"Emily Doe", "datum":"1995-12-03", "cim":"City29", "mothers_name":"Susan Smith", "fathers_name":"John Doe Jr.", "possible_death_time":"2022-01-08", "possible_death_location":"City29_Hospital"},
+    {"nev":"William Taylor", "datum":"1992-08-25", "cim":"City30", "mothers_name":"Laura Taylor", "fathers_name":"Chris Johnson", "possible_death_time":"Not known", "possible_death_location":"Not known"},
+
+    {"nev":"Emma Johnson", "datum":"2010-02-14", "cim":"City31", "mothers_name":"Chris Johnson", "fathers_name":"Laura Taylor", "possible_death_time":"2021-05-20", "possible_death_location":"City31_Home"},
+    {"nev":"James Davis", "datum":"2012-07-08", "cim":"City32", "mothers_name":"John Doe Jr.", "fathers_name":"Sarah Davis", "possible_death_time":"Not known", "possible_death_location":"Not known"},
+    {"nev":"Sophia Smith", "datum":"2015-04-20", "cim":"City33", "mothers_name":"Michael Smith", "fathers_name":"Emily Doe", "possible_death_time":"2022-10-15", "possible_death_location":"City33_Hospital"},
+    {"nev":"Olivia Taylor", "datum":"2017-10-12", "cim":"City34", "mothers_name":"William Taylor", "fathers_name":"Grace Smith", "possible_death_time":"Not known", "possible_death_location":"Not known"}
+  ]
+}
