@@ -1,6 +1,7 @@
 {
   "familytree": [
     {
+      "id": 1,
       "name": "Eva White Jr.",
       "date": "1968-07-03",
       "address": "New York",
@@ -10,6 +11,7 @@
       "possible_death_location": "New York_Hospital"
     },
     {
+      "id": 2,
       "name": "Mark Johnson",
       "date": "1966-12-12",
       "address": "Los Angeles",
@@ -19,6 +21,7 @@
       "possible_death_location": "Not known"
     },
     {
+      "id": 3,
       "name": "Susan Smith",
       "date": "1970-03-25",
       "address": "Chicago",
@@ -28,6 +31,7 @@
       "possible_death_location": "Chicago_Home"
     },
     {
+      "id": 4,
       "name": "John Doe Jr.",
       "date": "1975-08-08",
       "address": "Houston",
@@ -37,6 +41,7 @@
       "possible_death_location": "Not known"
     },
     {
+      "id": 5,
       "name": "Laura Taylor",
       "date": "1978-11-20",
       "address": "Phoenix",
@@ -46,6 +51,7 @@
       "possible_death_location": "Phoenix_Hospital"
     },
     {
+      "id": 6,
       "name": "Chris Johnson",
       "date": "1990-05-18",
       "address": "Philadelphia",
@@ -55,6 +61,7 @@
       "possible_death_location": "Not known"
     },
     {
+      "id": 7,
       "name": "Sarah Davis",
       "date": "1988-09-30",
       "address": "San Antonio",
@@ -64,6 +71,7 @@
       "possible_death_location": "San Antonio_Home"
     },
     {
+      "id": 8,
       "name": "Michael Smith",
       "date": "1992-04-14",
       "address": "San Diego",
@@ -73,6 +81,7 @@
       "possible_death_location": "Not known"
     },
     {
+      "id": 9,
       "name": "Emily Doe",
       "date": "1995-12-03",
       "address": "Dallas",
@@ -82,6 +91,7 @@
       "possible_death_location": "Dallas_Hospital"
     },
     {
+      "id": 10,
       "name": "William Taylor",
       "date": "1992-08-25",
       "address": "San Jose",
@@ -91,6 +101,7 @@
       "possible_death_location": "Not known"
     },
     {
+      "id": 11,
       "name": "Emma Johnson",
       "date": "2010-02-14",
       "address": "Austin",
@@ -100,6 +111,7 @@
       "possible_death_location": "Austin_Home"
     },
     {
+      "id": 12,
       "name": "James Davis",
       "date": "2012-07-08",
       "address": "Jacksonville",
@@ -109,6 +121,7 @@
       "possible_death_location": "Not known"
     },
     {
+      "id": 13,
       "name": "Sophia Smith",
       "date": "2015-04-20",
       "address": "San Francisco",
@@ -118,6 +131,7 @@
       "possible_death_location": "San Francisco_Hospital"
     },
     {
+      "id": 14,
       "name": "Olivia Taylor",
       "date": "2017-10-12",
       "address": "Columbus",
