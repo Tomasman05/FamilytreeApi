@@ -1,20 +1,130 @@
 {
   "familytree": [
-    {"name":"Eva White Jr.", "date":"1968-07-03", "address":"City21", "mothers_name":"Mary Johnson", "fathers_name":"Bob Johnson", "possible_death_time":"1995-02-15", "possible_death_location":"City21_Hospital"},
-    {"name":"Mark Johnson", "date":"1966-12-12", "address":"City22", "mothers_name":"Jane Doe", "fathers_name":"Jim Doe", "possible_death_time":"Not known", "possible_death_location":"Not known"},
-    {"name":"Susan Smith", "date":"1970-03-25", "address":"City23", "mothers_name":"Anna Smith", "fathers_name":"David Smith", "possible_death_time":"2010-08-20", "possible_death_location":"City23_Home"},
-    {"name":"John Doe Jr.", "date":"1975-08-08", "address":"City24", "mothers_name":"Jane Doe", "fathers_name":"John Doe", "possible_death_time":"Not known", "possible_death_location":"Not known"},
-    {"name":"Laura Taylor", "date":"1978-11-20", "address":"City25", "mothers_name":"Linda Davis", "fathers_name":"Robert Davis", "possible_death_time":"2005-04-10", "possible_death_location":"City25_Hospital"},
-
-    {"name":"Chris Johnson", "date":"1990-05-18", "address":"City26", "mothers_name":"Eva White Jr.", "fathers_name":"Mark Johnson", "possible_death_time":"Not known", "possible_death_location":"Not known"},
-    {"name":"Sarah Davis", "date":"1988-09-30", "address":"City27", "mothers_name":"Mark Johnson", "fathers_name":"Susan Smith", "possible_death_time":"2015-12-03", "possible_death_location":"City27_Home"},
-    {"name":"Michael Smith", "date":"1992-04-14", "address":"City28", "mothers_name":"Susan Smith", "fathers_name":"John Doe Jr.", "possible_death_time":"Not known", "possible_death_location":"Not known"},
-    {"name":"Emily Doe", "date":"1995-12-03", "address":"City29", "mothers_name":"Susan Smith", "fathers_name":"John Doe Jr.", "possible_death_time":"2022-01-08", "possible_death_location":"City29_Hospital"},
-    {"name":"William Taylor", "date":"1992-08-25", "address":"City30", "mothers_name":"Laura Taylor", "fathers_name":"Chris Johnson", "possible_death_time":"Not known", "possible_death_location":"Not known"},
-
-    {"name":"Emma Johnson", "date":"2010-02-14", "address":"City31", "mothers_name":"Chris Johnson", "fathers_name":"Laura Taylor", "possible_death_time":"2021-05-20", "possible_death_location":"City31_Home"},
-    {"name":"James Davis", "date":"2012-07-08", "address":"City32", "mothers_name":"John Doe Jr.", "fathers_name":"Sarah Davis", "possible_death_time":"Not known", "possible_death_location":"Not known"},
-    {"name":"Sophia Smith", "date":"2015-04-20", "address":"City33", "mothers_name":"Michael Smith", "fathers_name":"Emily Doe", "possible_death_time":"2022-10-15", "possible_death_location":"City33_Hospital"},
-    {"name":"Olivia Taylor", "date":"2017-10-12", "address":"City34", "mothers_name":"William Taylor", "fathers_name":"Grace Smith", "possible_death_time":"Not known", "possible_death_location":"Not known"}
+    {
+      "name": "Eva White Jr.",
+      "date": "1968-07-03",
+      "address": "New York",
+      "mothers_name": "Mary Johnson",
+      "fathers_name": "Bob Johnson",
+      "possible_death_time": "1995-02-15",
+      "possible_death_location": "New York_Hospital"
+    },
+    {
+      "name": "Mark Johnson",
+      "date": "1966-12-12",
+      "address": "Los Angeles",
+      "mothers_name": "Jane Doe",
+      "fathers_name": "Jim Doe",
+      "possible_death_time": "Not known",
+      "possible_death_location": "Not known"
+    },
+    {
+      "name": "Susan Smith",
+      "date": "1970-03-25",
+      "address": "Chicago",
+      "mothers_name": "Anna Smith",
+      "fathers_name": "David Smith",
+      "possible_death_time": "2010-08-20",
+      "possible_death_location": "Chicago_Home"
+    },
+    {
+      "name": "John Doe Jr.",
+      "date": "1975-08-08",
+      "address": "Houston",
+      "mothers_name": "Jane Doe",
+      "fathers_name": "John Doe",
+      "possible_death_time": "Not known",
+      "possible_death_location": "Not known"
+    },
+    {
+      "name": "Laura Taylor",
+      "date": "1978-11-20",
+      "address": "Phoenix",
+      "mothers_name": "Linda Davis",
+      "fathers_name": "Robert Davis",
+      "possible_death_time": "2005-04-10",
+      "possible_death_location": "Phoenix_Hospital"
+    },
+    {
+      "name": "Chris Johnson",
+      "date": "1990-05-18",
+      "address": "Philadelphia",
+      "mothers_name": "Eva White Jr.",
+      "fathers_name": "Mark Johnson",
+      "possible_death_time": "Not known",
+      "possible_death_location": "Not known"
+    },
+    {
+      "name": "Sarah Davis",
+      "date": "1988-09-30",
+      "address": "San Antonio",
+      "mothers_name": "Mark Johnson",
+      "fathers_name": "Susan Smith",
+      "possible_death_time": "2015-12-03",
+      "possible_death_location": "San Antonio_Home"
+    },
+    {
+      "name": "Michael Smith",
+      "date": "1992-04-14",
+      "address": "San Diego",
+      "mothers_name": "Susan Smith",
+      "fathers_name": "John Doe Jr.",
+      "possible_death_time": "Not known",
+      "possible_death_location": "Not known"
+    },
+    {
+      "name": "Emily Doe",
+      "date": "1995-12-03",
+      "address": "Dallas",
+      "mothers_name": "Susan Smith",
+      "fathers_name": "John Doe Jr.",
+      "possible_death_time": "2022-01-08",
+      "possible_death_location": "Dallas_Hospital"
+    },
+    {
+      "name": "William Taylor",
+      "date": "1992-08-25",
+      "address": "San Jose",
+      "mothers_name": "Laura Taylor",
+      "fathers_name": "Chris Johnson",
+      "possible_death_time": "Not known",
+      "possible_death_location": "Not known"
+    },
+    {
+      "name": "Emma Johnson",
+      "date": "2010-02-14",
+      "address": "Austin",
+      "mothers_name": "Chris Johnson",
+      "fathers_name": "Laura Taylor",
+      "possible_death_time": "2021-05-20",
+      "possible_death_location": "Austin_Home"
+    },
+    {
+      "name": "James Davis",
+      "date": "2012-07-08",
+      "address": "Jacksonville",
+      "mothers_name": "John Doe Jr.",
+      "fathers_name": "Sarah Davis",
+      "possible_death_time": "Not known",
+      "possible_death_location": "Not known"
+    },
+    {
+      "name": "Sophia Smith",
+      "date": "2015-04-20",
+      "address": "San Francisco",
+      "mothers_name": "Michael Smith",
+      "fathers_name": "Emily Doe",
+      "possible_death_time": "2022-10-15",
+      "possible_death_location": "San Francisco_Hospital"
+    },
+    {
+      "name": "Olivia Taylor",
+      "date": "2017-10-12",
+      "address": "Columbus",
+      "mothers_name": "William Taylor",
+      "fathers_name": "Grace Smith",
+      "possible_death_time": "Not known",
+      "possible_death_location": "Not known"
+    }
   ]
 }
