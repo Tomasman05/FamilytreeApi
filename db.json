@@ -6,7 +6,7 @@
       "date": "1968-07-03",
       "address": "New York",
       "mothers_name": "Mary Johnson",
-      "fathers_name": "Bob Johnson",
+      "fathers_name": "Bob Jffff",
       "possible_death_time": "1995-02-15",
       "possible_death_location": "New York_Hospital"
     },
@@ -17,8 +17,8 @@
       "address": "Los Angeles",
       "mothers_name": "Jane Doe",
       "fathers_name": "Jim Doe",
-      "possible_death_time": "Not known",
-      "possible_death_location": "Not known"
+      "possible_death_time": "Nem ismert",
+      "possible_death_location": "Nem ismert"
     },
     {
       "id": 3,
@@ -37,8 +37,8 @@
       "address": "Houston",
       "mothers_name": "Jane Doe",
       "fathers_name": "John Doe",
-      "possible_death_time": "Not known",
-      "possible_death_location": "Not known"
+      "possible_death_time": "Nem ismert",
+      "possible_death_location": "Nem ismert"
     },
     {
       "id": 5,
@@ -57,8 +57,8 @@
       "address": "Philadelphia",
       "mothers_name": "Eva White Jr.",
       "fathers_name": "Mark Johnson",
-      "possible_death_time": "Not known",
-      "possible_death_location": "Not known"
+      "possible_death_time": "Nem ismert",
+      "possible_death_location": "Nem ismert"
     },
     {
       "id": 7,
@@ -77,8 +77,8 @@
       "address": "San Diego",
       "mothers_name": "Susan Smith",
       "fathers_name": "John Doe Jr.",
-      "possible_death_time": "Not known",
-      "possible_death_location": "Not known"
+      "possible_death_time": "Nem ismert",
+      "possible_death_location": "Nem ismert"
     },
     {
       "id": 9,
@@ -97,8 +97,8 @@
       "address": "San Jose",
       "mothers_name": "Laura Taylor",
       "fathers_name": "Chris Johnson",
-      "possible_death_time": "Not known",
-      "possible_death_location": "Not known"
+      "possible_death_time": "Nem ismert",
+      "possible_death_location": "Nem ismert"
     },
     {
       "id": 11,
@@ -117,8 +117,8 @@
       "address": "Jacksonville",
       "mothers_name": "John Doe Jr.",
       "fathers_name": "Sarah Davis",
-      "possible_death_time": "Not known",
-      "possible_death_location": "Not known"
+      "possible_death_time": "Nem ismert",
+      "possible_death_location": "Nem ismert"
     },
     {
       "id": 13,
@@ -137,8 +137,8 @@
       "address": "Columbus",
       "mothers_name": "William Taylor",
       "fathers_name": "Grace Smith",
-      "possible_death_time": "Not known",
-      "possible_death_location": "Not known"
+      "possible_death_time": "Nem ismert",
+      "possible_death_location": "Nem ismert"
     }
   ]
 }
